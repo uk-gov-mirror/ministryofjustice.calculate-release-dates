@@ -99,7 +99,7 @@
     "cypress": "^15.21.1",
     "cypress-axe": "^1.7.0",
     "del": "9.0.1",
-    "dotenv": "^18.0.9",
+    "dotenv": "^18.0.10",
     "esbuild": "^0.28.0",
     "esbuild-plugin-copy": "^2.1.1",
     "esbuild-plugin-manifest": "^1.0.5",
@@ -116,13 +116,13 @@
     "openapi-typescript": "^7.13.0",
     "prettier": "^3.9.10",
     "prettier-plugin-jinja-template": "^2.2.0",
-    "sass": "^1.108.1",
+    "sass": "^1.108.2",
     "supertest": "^7.3.2",
     "ts-jest": "^29.4.15",
     "typescript": "^5.9.3"
   },
   "overrides": {
-    "@opentelemetry/core": "2.12.0",
+    "@opentelemetry/core": "2.12.1",
     "brace-expansion": "5.0.12"
   }
 }
